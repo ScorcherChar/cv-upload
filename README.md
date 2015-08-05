@@ -1,0 +1,1 @@
+This is just a simple example project to show my partner how selenium works. 
